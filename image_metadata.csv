@@ -1,0 +1,8 @@
+file_name,size,height,width,format,is_animated,frames,camera model,date and time,gps latitude,gps longitude,google_maps_url
+20230907_144443.jpg,"(4624, 3468)",3468,4624,JPEG,False,1,SM-M515F,2023-09-07 14:44:43,None,None,No GPS Data
+20230907_145008.jpg,"(4624, 3468)",3468,4624,JPEG,False,1,SM-M515F,2023-09-07 14:50:08,"29.0, 18.0, 58.1723","76.0, 18.0, 51.318","https://www.google.com/maps?q=29.3161590,76.3142550"
+IMG_20230908_224817.jpg,"(4000, 3000)",3000,4000,JPEG,False,1,GM1911,2023-09-08 22:48:19,,,"https://www.google.com/maps?q=29.3161590,76.3142550"
+Screenshot 2023-03-16 194634.png,"(765, 772)",772,765,PNG,False,1,Unknown,Unknown,,,"https://www.google.com/maps?q=29.3161590,76.3142550"
+Screenshot 2023-03-16 202408.png,"(655, 348)",348,655,PNG,False,1,Unknown,Unknown,,,"https://www.google.com/maps?q=29.3161590,76.3142550"
+Screenshot 2023-06-06 215238.png,"(1282, 407)",407,1282,PNG,False,1,Unknown,Unknown,,,"https://www.google.com/maps?q=29.3161590,76.3142550"
+Screenshot 2023-06-06 215607.png,"(1156, 356)",356,1156,PNG,False,1,Unknown,Unknown,,,"https://www.google.com/maps?q=29.3161590,76.3142550"
